@@ -1,0 +1,10 @@
+{
+  "title": "Sign In To Your Admin Account",
+  "subTitle": "Enter Your Username And Password To Continue",
+  "username": "User Name",
+  "password": "Password",
+  "placeholder": "Paul.Elliot",
+  "ForgotPassword": "Forgot Password?",
+  "loginButton": "Sign In To Your Admin Account",
+  "loggin-in": "Logging In..."
+}

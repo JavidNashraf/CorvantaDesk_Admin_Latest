@@ -1,0 +1,12 @@
+{
+  "header": "One Time Pin",
+  "subTitle": "Please enter 2FA Code.",
+  "placeholder": "Enter One Time Pin",
+  "submitButton": "Submit",
+  "cancelButton": "Cancel",
+  "enterOTP": "Please enter 2FA Code.",
+  "verify": "Verifying...",
+  "success": "Otp verified Successfully",
+  "failed": "Failed to Verify OTP",
+  "trust": "Trust this device for "
+}

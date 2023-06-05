@@ -1,0 +1,17 @@
+{
+  "addNewDepartment": "Add New Department",
+  "searchText": "Search Here",
+  "name": "Name",
+  "status": "Status",
+  "actions": "Actions",
+  "view": "View",
+  "edit": "Edit",
+  "number": "Number",
+  "addDepartment": "Add Department",
+  "editDepartment": "Edit Department",
+  "deleteDepartment": "Delete Department",
+  "saveChanges": "Save Changes",
+  "departmentStatus": "Department Status",
+  "adminAssigned":"Admin Assigned",
+  "adminAssignedTable": "Admin Assigned"
+}

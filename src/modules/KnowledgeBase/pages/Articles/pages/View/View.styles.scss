@@ -1,0 +1,11 @@
+.view-article__box {
+  display: grid;
+  grid-template-columns: 4fr 2fr;
+  // gap: 25px;
+  &-border {
+    border-left: 1px dashed #474761;
+    // padding-left: 15px;
+  }
+  &-left {
+  }
+}

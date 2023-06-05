@@ -1,0 +1,39 @@
+.ticket-card {
+  background: #000000 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  padding: 20px;
+  // opacity: 1;
+  &__header {
+    &-heading {
+      font-size: 16px;
+      color: #ffffff;
+    }
+    &-text {
+      margin-top: 5px;
+      color: #78789e;
+      font-size: 16px;
+    }
+  }
+  &__inner {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    &-left {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      &-text {
+        &-heading {
+          font-size: 20px;
+        }
+        &-txt {
+          margin-top: 5px;
+          font-size: 16px;
+          color: #78789e;
+        }
+      }
+    }
+  }
+}

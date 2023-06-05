@@ -1,0 +1,11 @@
+.recent-article {
+  &__btm-border {
+    div.article-card {
+      padding: 25px 0px;
+      border-bottom: 1px dashed #474761;
+      &:last-child {
+        border-bottom: 0;
+      }
+    }
+  }
+}

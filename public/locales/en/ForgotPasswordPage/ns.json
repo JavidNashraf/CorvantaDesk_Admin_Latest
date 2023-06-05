@@ -1,0 +1,9 @@
+{
+  "title": "Forgot Password",
+  "subTitle": "Enter Your Email Address To Reset Your Password",
+  "emailAddress": "Email Address",
+  "placeholder": "Paul.Elliott@Fakemail.com",
+  "cancelBtn": "Cancel",
+  "submitBtn": "Submit",
+  "Sending": "Sending..."
+}

@@ -1,0 +1,125 @@
+.ur-icon {
+  width: 20px;
+  height: 20px;
+  background-color: #ccc;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.noti-icon {
+  width: 45px;
+  height: 45px;
+  border-radius: 50px;
+  background-color: #323248;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.notification-block + .notification-block {
+  margin-top: 32px;
+}
+.book-icon {
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  background-color: #171723;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 16px;
+}
+.book-block {
+  border-radius: 8px;
+  margin-top: 16px;
+}
+.bg-txt {
+  background-color: #323248;
+  border-radius: 4px;
+  padding: 4px 8px;
+  display: inline-block;
+  text-align: center;
+}
+.book-status span {
+  border-radius: 4px;
+  padding: 4px 8px;
+  background-color: #212e48;
+  color: #3699ff;
+}
+.btn-wrap .ant-btn {
+  height: auto;
+}
+.img-single {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 20px;
+  height: 20px;
+}
+.img-single + .img-single {
+  margin-left: -7px;
+}
+.imgs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wid._1 {
+  width: 22%;
+}
+.wid._2 {
+  width: 20%;
+}
+.noti-content .text-white {
+  max-width: 60%;
+}
+.notifications-wrap {
+  position: relative;
+}
+.notification-block::before {
+  content: '';
+  position: absolute;
+  top: 45px;
+  height: 100%;
+  left: 24px;
+  width: 1px;
+  border-left: 1px dashed #474761;
+}
+.notifications-wrap {
+  overflow: auto;
+  // max-height: calc(100%);
+}
+.notifications {
+  transform: translateX(100%);
+  transition: transform 0.5s;
+  height: 100%;
+}
+.notificationShow {
+  & .notifications {
+    transform: translateX(0);
+  }
+}
+
+.notificationShow {
+  position: relative;
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(0 0 0 / 50%);
+    height: 100%;
+  }
+}
+@-webkit-keyframes slide {
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+@keyframes slide {
+  100% {
+    transform: translateX(0%);
+  }
+}

@@ -1,0 +1,23 @@
+.custom-article-card {
+  &__more {
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    backdrop-filter: blur(32px);
+    -webkit-backdrop-filter: blur(32px);
+    background: #ffffff46 0% 0% no-repeat padding-box;
+    &-dd {
+      background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+      border-radius: 8px;
+      opacity: 1;
+      backdrop-filter: blur(32px);
+      -webkit-backdrop-filter: blur(32px);
+      background: #ffffff46 0% 0% no-repeat padding-box;
+    }
+  }
+  max-height: 500px;
+  .bodyX{
+    max-height: 100px;
+    overflow: hidden;
+  }
+}

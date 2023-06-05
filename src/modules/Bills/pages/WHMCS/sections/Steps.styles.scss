@@ -1,0 +1,35 @@
+.custom-steps {
+  &__line {
+    position: absolute;
+    top: 0px;
+    border-left: 1px #323248 dashed;
+    height: 75vh;
+    width: 1px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+  }
+
+  &__step {
+    background: #1e1e2d 0% 0% no-repeat padding-box;
+    border: 1px dashed #323248;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    z-index: 2;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+  }
+
+  .custom-steps__step.custom-steps__step-active {
+    background: #392f28 0% 0% no-repeat padding-box;
+    border: 1px dashed #ffa800;
+    color: #ffa800;
+  }
+
+  .custom-steps__step.custom-steps__step-done {
+    background: #0bb783 0% 0% no-repeat padding-box;
+    border: 1px solid #0bb783;
+  }
+}

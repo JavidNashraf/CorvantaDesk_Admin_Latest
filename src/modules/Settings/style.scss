@@ -1,0 +1,11 @@
+.settings {
+  color: red;
+}
+
+.brands-table {
+  & table {
+    .ant-table-tbody>tr>td:nth-child(4) {
+      color: #3699FF
+    }
+  }
+}

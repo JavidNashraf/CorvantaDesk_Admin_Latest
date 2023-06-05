@@ -1,0 +1,1018 @@
+{
+  "products": [
+    {
+      "key": "025Axza4",
+      "id": "025Axza4",
+      "name": "Product 0",
+      "description": "This is demo description for product # aqQ00",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 13
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 75
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "125Axza4",
+      "id": "125Axza4",
+      "name": "Product 1",
+      "description": "This is demo description for product # aqQ01",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 14
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 76
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "225Axza4",
+      "id": "225Axza4",
+      "name": "Product 2",
+      "description": "This is demo description for product # aqQ02",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 15
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 77
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "325Axza4",
+      "id": "325Axza4",
+      "name": "Product 3",
+      "description": "This is demo description for product # aqQ03",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 16
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 78
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "425Axza4",
+      "id": "425Axza4",
+      "name": "Product 4",
+      "description": "This is demo description for product # aqQ04",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 17
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 79
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "525Axza4",
+      "id": "525Axza4",
+      "name": "Product 5",
+      "description": "This is demo description for product # aqQ05",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 18
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 80
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "625Axza4",
+      "id": "625Axza4",
+      "name": "Product 6",
+      "description": "This is demo description for product # aqQ06",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 19
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 81
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "725Axza4",
+      "id": "725Axza4",
+      "name": "Product 7",
+      "description": "This is demo description for product # aqQ07",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 20
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 82
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "825Axza4",
+      "id": "825Axza4",
+      "name": "Product 8",
+      "description": "This is demo description for product # aqQ08",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 21
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 83
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "925Axza4",
+      "id": "925Axza4",
+      "name": "Product 9",
+      "description": "This is demo description for product # aqQ09",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 22
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 84
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1025Axza4",
+      "id": "1025Axza4",
+      "name": "Product 10",
+      "description": "This is demo description for product # aqQ010",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 23
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 85
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1125Axza4",
+      "id": "1125Axza4",
+      "name": "Product 11",
+      "description": "This is demo description for product # aqQ011",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 24
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 86
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1225Axza4",
+      "id": "1225Axza4",
+      "name": "Product 12",
+      "description": "This is demo description for product # aqQ012",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 25
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 87
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1325Axza4",
+      "id": "1325Axza4",
+      "name": "Product 13",
+      "description": "This is demo description for product # aqQ013",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 26
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 88
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1425Axza4",
+      "id": "1425Axza4",
+      "name": "Product 14",
+      "description": "This is demo description for product # aqQ014",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 27
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 89
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1525Axza4",
+      "id": "1525Axza4",
+      "name": "Product 15",
+      "description": "This is demo description for product # aqQ015",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 28
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 90
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1625Axza4",
+      "id": "1625Axza4",
+      "name": "Product 16",
+      "description": "This is demo description for product # aqQ016",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 29
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 91
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1725Axza4",
+      "id": "1725Axza4",
+      "name": "Product 17",
+      "description": "This is demo description for product # aqQ017",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 30
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 92
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1825Axza4",
+      "id": "1825Axza4",
+      "name": "Product 18",
+      "description": "This is demo description for product # aqQ018",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 31
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 93
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "1925Axza4",
+      "id": "1925Axza4",
+      "name": "Product 19",
+      "description": "This is demo description for product # aqQ019",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 32
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 94
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "2025Axza4",
+      "id": "2025Axza4",
+      "name": "Product 20",
+      "description": "This is demo description for product # aqQ020",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 33
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 95
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "2125Axza4",
+      "id": "2125Axza4",
+      "name": "Product 21",
+      "description": "This is demo description for product # aqQ021",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 34
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 96
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "2225Axza4",
+      "id": "2225Axza4",
+      "name": "Product 22",
+      "description": "This is demo description for product # aqQ022",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 35
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 97
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "2325Axza4",
+      "id": "2325Axza4",
+      "name": "Product 23",
+      "description": "This is demo description for product # aqQ023",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 36
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 98
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "2425Axza4",
+      "id": "2425Axza4",
+      "name": "Product 24",
+      "description": "This is demo description for product # aqQ024",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 37
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 99
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    },
+    {
+      "key": "2525Axza4",
+      "id": "2525Axza4",
+      "name": "Product 25",
+      "description": "This is demo description for product # aqQ025",
+      "base64Image": "https://i.postimg.cc/7LsfSwSg/purepng-com-ford-focus-yellow-carcarvehicletransportford-961524665802mhbcd.png",
+      "productCategories": [
+        {
+          "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productDepartments": [
+        {
+          "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ],
+      "productLineItems": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title",
+          "price": 38
+        },
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "Product Item Title 2",
+          "price": 100
+        }
+      ],
+      "status": 1,
+      "tags": "new, product, dummy",
+      "paymentType": 0,
+      "notes": "Demo Notes 1, Demo Notes 2",
+      "registrationDate": "2022-06-01T00:09:39.817Z",
+      "nextDueDate": "2022-06-01T00:09:39.817Z",
+      "terminationDate": "2022-06-01T00:09:39.817Z",
+      "overrideSuspensionDate": "2022-06-01T00:09:39.817Z",
+      "overrideTerminationDate": "2022-06-01T00:09:39.817Z",
+      "userId": "123456789"
+    }
+  ]
+}

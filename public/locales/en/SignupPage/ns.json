@@ -1,0 +1,20 @@
+{
+  "username": "Username",
+  "fullName": "Full Name ",
+  "emailAddeess": "Email Address",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "brand": "Brand",
+  "address1": "Address 1",
+  "address2": "Address 2",
+  "city": "City",
+  "state": "State",
+  "country": "Country",
+  "zipCode": "Zip Code",
+  "status": "Status",
+  "ipAddress": "IP Address",
+  "createAccountBtn": "Create An Account",
+  "creatingAccount": "Creating Account...",
+  "admin": "Create An Admin Account",
+  "formHeading": "Fill The Form Below In Order To Create Your Account"
+}

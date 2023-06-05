@@ -1,0 +1,16 @@
+.invoice-details{
+    display: grid;
+    grid-template-columns: 2.7fr 1.3fr;
+    gap: 20px;
+}
+.container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 0px;
+    bottom: 200px;
+}
+.companyname{
+    float: right;
+}

@@ -1,0 +1,13 @@
+.users {
+  padding: 40px;
+  min-width: 100%;
+  min-height: 30vh;
+
+  &__inner {
+    padding: 40px;
+    min-width: 100%;
+    min-height: 30vh;
+    border-radius: 8px;
+    background: #000000;
+  }
+}

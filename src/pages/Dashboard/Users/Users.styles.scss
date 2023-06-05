@@ -1,0 +1,15 @@
+@import 'styles/mixins.scss';
+
+.users {
+  padding: 40px;
+  min-width: 100%;
+  min-height: 30vh;
+
+  &__inner {
+    padding: 40px;
+    min-width: 100%;
+    min-height: 30vh;
+    border-radius: 8px;
+    background: #1e1e2d;
+  }
+}

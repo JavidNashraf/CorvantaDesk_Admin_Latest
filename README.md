@@ -1,1 +1,2 @@
-# CorvantaDesk_Admin_Latest
+# CorvantaDesk_UI_Admin
+Corvanta Desk UI for Admin Screens

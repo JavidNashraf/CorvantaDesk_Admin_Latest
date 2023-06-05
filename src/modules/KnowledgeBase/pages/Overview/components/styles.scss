@@ -1,0 +1,100 @@
+.pcardX{
+    .stackX{
+        width: 400px;
+         height: 123px;
+         position: relative;
+         margin: 10px;
+         align-items: center;
+         justify-content: center;
+        .pBackroung{
+            background: #FFA800 0% 0% no-repeat padding-box;
+            border-radius: 8px;
+            position: absolute;
+            height: 100%;
+            width: 90%;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+        .pBackroung2{
+            background: #8950FC 0% 0% no-repeat padding-box;
+            border-radius: 8px;
+            position: absolute;
+            height: 100%;
+            width: 90%;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+        .pContent{
+            position: absolute;
+            height: 97%;
+            width: 100%;
+            border-radius: 8px;
+            background: #0C0D0F 0% 0% no-repeat padding-box;
+            .pLeft{
+                display: flex;
+                flex-direction: column;
+                margin: 12px;
+            }
+            .pTitle{
+                color: var(--unnamed-color-ffffff);
+                text-align: left;
+                font: normal normal medium 16px/25px Poppins;
+                letter-spacing: 0px;
+                color: #FFFFFF;
+            }
+            .pCount{
+                text-align: left;
+                font: normal normal medium 40px/60px Poppins;
+                letter-spacing: 0px;
+                color: #FFA800;
+                font-size: 40px;
+            }
+            .pCount2{
+                text-align: left;
+                font: normal normal medium 40px/60px Poppins;
+                letter-spacing: 0px;
+                color: #8950FC;
+                font-size: 40px;
+            }
+            .pBody{
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+            .pCon{
+                width: 83px;
+                height: 83px;
+                background: #151521 0% 0% no-repeat padding-box;
+                border-radius: 8px;
+                opacity: 1;
+                // center content
+                align-items: center;
+                justify-content: center;
+                display: flex;
+                .pIcon{
+                    width: 48px;
+                    height: 48px;
+                    background: transparent url('./timer.svg') 0% 0% no-repeat padding-box;
+                }
+                .pIcon2{
+                    width: 48px;
+                    height: 48px;
+                    background: transparent url('./timer2.svg') 0% 0% no-repeat padding-box;
+                }
+            }
+            .pRight{
+                display: flex;
+                margin-top: 13px;
+                margin-right: 20px;
+                //center content
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+            }
+        }
+    }
+}

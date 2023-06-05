@@ -1,0 +1,10 @@
+.custom-select-mass-email-clients {
+  .form-select {
+    background-image: url('data:image/svg+xml;base64,PHN2ZyBpZD0iYXJyb3ctZG93biIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiI+CiAgPHBhdGggaWQ9IlZlY3RvciIgZD0iTTEwLjU2LDAsNi4yMTMsNC4zNDdhMS4zMjQsMS4zMjQsMCwwLDEtMS44NjcsMEwwLDAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIuNzIgNS45NjcpIiBmaWxsPSJub25lIiBzdHJva2U9IiM5MjkyOGYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8cGF0aCBpZD0iVmVjdG9yLTIiIGRhdGEtbmFtZT0iVmVjdG9yIiBkPSJNMCwwSDE2VjE2SDBaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNiAxNikgcm90YXRlKDE4MCkiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjAiLz4KPC9zdmc+Cg==');
+    background-color: #28283a !important;
+    &:focus {
+      border-color: transparent !important;
+      box-shadow: unset !important;
+    }
+  }
+}
